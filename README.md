@@ -8,6 +8,8 @@ To play this game we require two players to play one is X and the other is O and
 
 To win the game players have to get 3 of her marks in a row (up, down, across, or diagonally).
 
+![snapshot of the game](http://url/to/img.png)
+
 ## clone this repo and execute the tictactoe.py file
 
 make sure you have python version 3.6 or up with Tkinter modules. 
